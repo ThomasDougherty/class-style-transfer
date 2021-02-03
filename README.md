@@ -1,4 +1,4 @@
-# Clas Style Transfer using Google Colab
+# Class Style Transfer using Google Colab
 
 ![video-style-transfer](.github/frame_00072.png)
 
